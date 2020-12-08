@@ -1,5 +1,5 @@
 {
-    "name": "slick-carousel",
+    "name": "vanilla-slick-carousel",
     "main": [
         "slick/slick.js",
         "slick/slick.css",
@@ -8,13 +8,12 @@
     ],
     "homepage": "https://github.com/kenwheeler/slick",
     "authors": [
-        "Ken Wheeler <ken_wheeler@me.com>"
+        "Frank Schnappenberger <schnappenberger@triple-i.de>"
     ],
-    "description": "the last carousel you'll ever need",
+    "description": "really the last carousel you'll ever need",
     "keywords": [
         "responsive",
-        "carousel",
-        "jquery"
+        "carousel"
     ],
     "license": "MIT",
     "ignore": [
@@ -27,6 +26,5 @@
         "index.html"
     ],
     "dependencies": {
-        "jquery": ">=1.7"
     }
 }
